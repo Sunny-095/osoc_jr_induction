@@ -1,0 +1,11 @@
+[200~1. git config: git comes with a tool called git config that lets you get and set configuration variables that control all aspects of how git looks andoperats.
+2. git help: if you ever need help you can use help command.
+3. git rebase [branch] apply any commits of current branch ahead of specified one.
+4.git reset -- hard : clear staging area, rewrite working tree from specified commit
+5. git stash : save modified and staged changes.
+6. list stack - order of staged file changes
+7. git stash list : list stack order of stashed file changes.
+8. git stash pop: write working from top of stash stack.
+9. git stash drop : discard the changes from top of stash stack.
+10. git show : show any object in Git in human readable format
+
