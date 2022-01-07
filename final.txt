@@ -1,0 +1,30 @@
+commit c8549a5670344d8b2dc12c64772fd9e16f9ddb3f
+Merge: 9bae524 b41c463
+Author: Sunny-095 <sunnyparmarnit316@gmail.com>
+Date:   Fri Jan 7 22:25:42 2022 +0530
+
+    merge_file created
+
+commit 9bae52486abefb71a415de556059e940d86b6b6e
+Author: Sunny-095 <sunnyparmarnit316@gmail.com>
+Date:   Fri Jan 7 22:07:48 2022 +0530
+
+    new commit
+
+commit b41c463aa3a140ef290c52284d85cf5eda34ea6b
+Author: Sunny-095 <sunnyparmarnit316@gmail.com>
+Date:   Fri Jan 7 22:05:32 2022 +0530
+
+    conflict file created
+
+commit 46b8abde0588087232b792adf0396e7204f451b7
+Author: Sunny-095 <sunnyparmarnit316@gmail.com>
+Date:   Fri Jan 7 22:03:56 2022 +0530
+
+    new file created
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
